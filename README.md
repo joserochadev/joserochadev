@@ -1,6 +1,7 @@
 ### Hi!! José here👋
 
  [![José Rocha Dev's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joserochadev&theme=dracula)](https://github.com/joserochadev/github-readme-stats)
+ ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joserochadev&layout=compact&langs_count=7&theme=dracula)
   
   ##
   

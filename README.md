@@ -1,9 +1,28 @@
-### Hi!! José here👋
+# Hi!! José here👋
 
- [![José Rocha Dev's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joserochadev&theme=dracula)](https://github.com/joserochadev/github-readme-stats)
- ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joserochadev&layout=compact&langs_count=7&theme=dracula)
+### Web Developer | Emulation Enthusiast
+
+ [![José Rocha Dev's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joserochadev&theme=holi)](https://github.com/joserochadev/github-readme-stats)
+ ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joserochadev&layout=compact&langs_count=7&theme=holi)
+
+## 🚀 Featured Projects
+
+ <table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/joserochadev/EmuChan">EmuChan</a></h3>
+      <p>EmuChan is a Game Boy DMG emulator written in Rust, focused on learning and exploring hardware emulation.</p>
+      <p><strong>Tecnologias:</strong> Rust, SDL</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/joserochadev/echosub">EchoSub</a></h3>
+      <p>EchoSub is a Python application that automatically generates subtitles for videos using OpenAI's Whisper model, with a simple graphical interface in Tkinter.</p>
+      <p><strong>Tecnologias:</strong> Python, Whisper, TKinter</p>
+    </td>
+  </tr>
+</table>
   
-  ##
+  --- 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

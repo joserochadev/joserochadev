@@ -2,11 +2,15 @@
 
 ### Web Developer | Emulation Enthusiast
 
- [![José Rocha Dev's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joserochadev&theme=holi)](https://github.com/joserochadev/github-readme-stats)
- ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joserochadev&layout=compact&langs_count=7&theme=holi)
+ [![José Rocha Dev's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=joserochadev&show_icons=true&theme=radical)](https://github.com/joserochadev/github-readme-stats)
+ ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joserochadev&layout=compact&langs_count=7&show_icons=true&theme=radical)
 
 ## 🚀 Featured Projects
 
+[![Card do Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=joserochadev&repo=EmuChan&theme=radical)](https://github.com/joserochadev/EmuChan)
+[![Card do Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=joserochadev&repo=EchoSub&theme=radical)](https://github.com/joserochadev/echosub)
+
+<!--
  <table>
   <tr>
     <td width="50%">
@@ -21,6 +25,7 @@
     </td>
   </tr>
 </table>
+-->
   
   --- 
   
